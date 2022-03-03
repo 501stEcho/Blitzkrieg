@@ -9,5 +9,5 @@ Create the executable :
 Launch the game :
 - "./my_runner"
 
-Know the synopsis and how to play:
+Display the synopsis and the controls:
 - "./my_runner -h"
