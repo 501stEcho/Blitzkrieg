@@ -1,0 +1,27 @@
+SYNOPSYS :
+
+Bienvenue pilote,
+
+Nous sommes à Stalingrad en 1944, en pleine seconde guerre mondiale.
+Notre plan était d'envoyer la luftwaffe pour raser la ville.
+Il semblerait cependant que les russes aient intercéptés notre transmission,
+Car nous avons fait face à une défense extrèmement forte.
+Un tireur hors norme a abattu votre avion, vous contraignant à vous ejecter d'urgence.
+Rassurez vous, nous avons mis à votre disposition un jetpack pour amortir votre chute,
+Votre mission est d'atteindre le spitfire positionné à la fin de la route pour pouvoir vous enfuir.
+
+___________________________
+
+UTILISATION :
+
+-Une map est mis automatiquement à votre disposition si vous n'en mettez pas en paramètre.
+
+-Utilisez le -e pour entrer en endless mode.
+
+-Utilisez -r, -g, -b, pour donner à votre personnage une couleur bleu, rouge, ou verte.
+
+-Utilisez le clic droit de la souris pour cliquer sur les boutons des menus.
+
+-Utilisez la barre espace pour sauter, eviter les mines, et récupérer les pièces.
+
+-Votre vitesse augmente au fur et à mesure du temps, essayez de garder le rythme !
